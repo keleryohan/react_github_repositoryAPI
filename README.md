@@ -1,4 +1,5 @@
-This is React project that utilizes the Github API to fetch repositories based on a text input and a selection of languages Github accepts repositories to be writen in.
+This is a React project that utilizes the Github API to fetch repositories based on a text input and a selection of one or more languages Github accepts repositories to be writen with. <br/>
+It should be completly responsible and compatible with any screen sizes. 
 
 To inicialize the project, install the necessary dependecies with yarn install, and then start the project with yarn start.
 
